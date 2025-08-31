@@ -25,13 +25,14 @@ So we are going to start with some basic content, to help everybody get ready so
 1. Let's start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready 2 years later.
 2. The understanding about the knowledge structure to be a fullstack engineer.
 3. Practice git & github
-4. Practice html, css, javascript 
-5. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not core content
-6. React
-7. database & SQL
-8. Unit test
-9. CI/CD
-10. Linux & Container, k8s
+4. Practice html, css, javascript
+5. understand HTTP protocal
+6. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not core content
+7. React
+8. database & SQL
+9. Unit test
+10. CI/CD
+11. Linux & Container, k8s
 
 ## Group plan
 It is better to have a 10 hours plan for each member on this group, and 30 - 60 minutes face 2 face meeting per week.  
