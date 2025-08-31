@@ -40,11 +40,12 @@ such as project manager, UI/UX design, frontend engineer, backend engineer, Devo
 ## Project AI policy
 AI will be our the most important topic during the next 2 years.  
 We are going to build AI Agent tools and We highly recommend practice coding with AI's help.   
-But since the target of the projects here is practicing, we do not recommend to use AI to generate everything
-(Currently, there is no AI agent production & industry environment ready for total automatic/vibe coding scenario, if some day it really comes, which means no humen coding needed, then our learning story would be totally different).  
+But since the target of the projects here is practicing, we do not recommend to use AI to generate everything*[1].  
 You are responsible for the quality of your code.  
 If you are going to generate some code by AI, it is better to review the code by yourself first, and run the test to make sure it works.  
-Also we still need to review the code for each other before push/merge to the main branch, it is still the good way to control the production quality and to learn coding. 
+Also we still need to review the code for each other before push/merge to the main branch, it is still the good way to control the production quality and to learn coding.  
+  
+*[1] Currently, there is no AI agent production & industry environment ready for total automatic/vibe coding scenario, if some day it really comes, which means no humen coding needed, then our learning story would be totally different
 
 <!--
 
