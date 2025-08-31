@@ -38,9 +38,12 @@ It is better to have different roles for each project, and let everybody to have
 such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
 
 ## Project AI policy
-We are going to use AI to help us coding, but since the target of the projects here is practicing, we do not recommend to use AI to generate everything.  
-It is better to do the system design, coding by yourself. If you are going to generate some code by AI, it is better to review the code by yourself first, and run the test to make sure it works.  
-Also we still need to review the code for each other, it is still the good way to learn coding. 
+AI will be our the most important topic during the next 2 years.  
+We are going to build AI Agent tools and We highly recommend practice coding with AI's help.   
+But since the target of the projects here is practicing, we do not recommend to use AI to generate everything.  
+You are responsible for the quality of your code.  
+If you are going to generate some code by AI, it is better to review the code by yourself first, and run the test to make sure it works.  
+Also we still need to review the code for each other before push/merge to the main branch, it is still the good way to control the production quality and to learn coding. 
 
 <!--
 
