@@ -22,7 +22,7 @@ It is better to have below knowledge before start a fullstack project, those req
 So we are going to start with some basic content, to help everybody get ready soon.
 
 ## Next Plan (TBD)
-1. Let's start from analysing indeed/linkedin Job Description, to understand what kind of tool sets we need to get 2 years later.
+1. Let's start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready 2 years later.
 2. The understanding about the knowledge structure to be a fullstack engineer.
 3. Practice git & github
 4. Practice html, css, javascript
