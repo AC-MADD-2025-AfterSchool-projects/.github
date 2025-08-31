@@ -2,6 +2,7 @@
 
 # README
 This is the after school project practice group for Algonquin Colledge MADD 2025 students.   
+This is an inoffical group self orgnized by students.
 We accept all the students who want to join this after school project.  
 We choose MIT license for all the projects, which means the least restrictions for all the codes assets here: Anyone can share, fork, sublicense those projects.  
 
