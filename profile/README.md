@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, AC MADD 2025 students!
 
 # README
 This is the after school project practice group for Algonquin Colledge MADD 2025 students.   
