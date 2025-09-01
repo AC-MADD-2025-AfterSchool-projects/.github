@@ -45,7 +45,7 @@ So we are going to start with some basic content, to help everybody get ready so
 13. Linux & Container, k8s
 
 ## Group plan
-It is better to have a 10 hours plan for each member on this group, and 30 - 60 minutes face 2 face meeting per week.  
+It is better to have a 10 hours/week plan for each member on this group, and 30 - 60 minutes face 2 face meeting per week.  
 It is better to have different roles for each project, and let everybody to have a chance to try the role they want to be.   
 such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
 
