@@ -29,12 +29,14 @@ So we are going to start with some basic content, to help everybody get ready so
 3. Practice git & github
 4. Practice html, css, javascript
 5. understand HTTP protocal
-6. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not core content
-7. React
-8. database & SQL
-9. Unit test
-10. CI/CD
-11. Linux & Container, k8s
+6. Data structure & Algrithm
+7. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not core content
+8. Mobile dev
+9. React
+10. database & SQL
+11. Unit test
+12. CI/CD
+13. Linux & Container, k8s
 
 ## Group plan
 It is better to have a 10 hours plan for each member on this group, and 30 - 60 minutes face 2 face meeting per week.  
