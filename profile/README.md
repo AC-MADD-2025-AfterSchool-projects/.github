@@ -46,6 +46,7 @@ So we are going to start with some basic content, to help everybody get ready so
 
 ## Group plan
 It is better to have a 10 hours/week plan for each member on this group, and 30 - 60 minutes face 2 face group meeting per week.  
+(It seems like Thursday 3pm - 4pm in WT127 is a good choice)
 It is better to have different roles for each project, and let everybody to have a chance to try the role they want to be.   
 such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
 
