@@ -14,10 +14,10 @@ It was the worst of times. It was the best of times！
 Due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.  
 
 ## What expect from this group project
-Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers.  
 Is that possible to get more from these 2 years?  
-It may let us have a better understand what we learn from class, and have a chance to practice by group.  
-To have a chance to get a better position to go into this industry.
+1. It may let us have a better prepare to get the knowledge from school courses.
+2. It may let us have a better understand what we learn from school courses, and have a chance to practice by group.
+   Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers. To have a chance to get a better position to go into this industry.
 
 ## pre-projects requirements
 It is better to have below knowledge before start a fullstack project, those requirements comes from the job marketing analysis, but it is hard to have everybody to get all the skills ready soon:    
