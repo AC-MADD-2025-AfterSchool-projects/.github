@@ -36,7 +36,7 @@ So we are going to start with some basic content, to help everybody get ready so
 4. Practice html, css, javascript
 5. understand HTTP protocal
 6. Data structure & Algrithm
-7. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not core content
+7. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not the starting blocker
 8. Mobile dev
 9. React
 10. database & SQL
