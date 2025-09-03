@@ -1,7 +1,7 @@
 ## Hi there 👋, AC MADD 2025 students!
 
 # README
-This is the after school project practice group for Algonquin Colledge MADD 2025 students.   
+This is the after school side project practice group for Algonquin Colledge MADD 2025 Fall students.   
 This is an inoffical group self orgnized by students.  
 We accept all the students who want to join.  
 You may consider this as your side project, or you may have your own side project and have some practice here also, and you may fork the project here to start your own side project.  
