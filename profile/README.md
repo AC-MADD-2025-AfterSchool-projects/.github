@@ -1,6 +1,6 @@
 ## Hi there 👋, AC MADD 2025 students!
 
-# README
+# Side Project Club
 
 ## Who we are
 This is the side project club for Algonquin Colledge MADD 2025 Fall students.   
