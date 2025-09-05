@@ -44,7 +44,7 @@ Are you going to be ready to go into the job marketing after that?
 2. It may let us have a better understand what we learn from school courses, and have a chance to practice by group.
 3. It may let us have a chance to resolve real world problems by different thinking and culture.
 
-## What do we need to join the group
+## What skill do we need to join the group
 We welcome everyone to join without any background knowledge. But, some of the projects need some design/tech backgrounds.
 If you consider it is not fit you, you may as a oberver roles to stay in the project, until you can deliver some functions.  
 It may have more than 1 project on going in this group, and everyone can choose the one you like to join.
