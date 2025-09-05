@@ -1,52 +1,68 @@
 ## Hi there 👋, AC MADD 2025 students!
 
 # README
-This is the after school side project practice group for Algonquin Colledge MADD 2025 Fall students.   
+
+## Who we are
+This is the side project club for Algonquin Colledge MADD 2025 Fall students.   
 This is an inoffical group self orgnized by students.  
+
+## Club members
 We accept all the students who want to join.  
-You may consider this as your side project, or you may have your own side project and have some practice here also, and you may fork the project here to start your own side project.  
+You may consider the projects and content here as your side project, you may use the ideas here and fork it as your own side project.
 We choose MIT license for all the projects, which means the least restrictions for all the codes assets here: Anyone can share, fork, sublicense those projects.  
 
 ## Why after school projects
+We want to practice more!
 ```
 It was the worst of times. It was the best of times！  
-```  
+```
+Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers. To have a chance to get a better position to go into this industry.
 Due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.  
 
 ## What expect from this group project
 Is that possible to get more from these 2 years?  
 1. It may let us have a better prepare to get the knowledge from school courses.
 2. It may let us have a better understand what we learn from school courses, and have a chance to practice by group.
-   Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers. To have a chance to get a better position to go into this industry.
+3. It may let us have a chance to resolve real world problems by different thinking and culture.
 
-## pre-projects requirements
-It is better to have below knowledge before start a fullstack project, those requirements comes from the job marketing analysis, but it is hard to have everybody to get all the skills ready soon:    
+## What do we need to join the group side projects
+We welcome everyone to join without any background knowledge.
+Some of the projects need some design/tech backgrounds, if you consider it is not fit you, you may as a oberver roles to stay in the project.
+It may have more than 1 project on going in this group, and everyone can choose the one you like to join.
+
+Some of below skills/tools would be the essential/core tools:
+1. Git and github
+2. HTML, CSS, Javascript
+3. Markdown
+4. Frontend/Backend framework knowledge
+
+### Ref Link
 1. Web Dev basic tools: HTML, CSS, [Javascript](https://javascript.info/js), then [React](https://react.dev/learn).
 2. Git and github basic kowledge: [How to creating branches, commits, and pull requests](https://github.com/skills/introduction-to-github)
 3. [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
 4. Database knowledge.
 5. Unit, Syste test, CI/CD, Container and K8s.
 
-So we are going to start with some basic content, to help everybody get ready soon.
+We are going to have a weekly meeting to share some topics, ideas, progress.
 
-## Next Plan (TBD)
-1. Let's start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready 2 years later.
-2. The understanding about the knowledge structure to be a fullstack engineer.
-3. Practice git & github
-4. Practice html, css, javascript
+## Next Plan/topics ideas (TBD)
+1. Job marketing analysis, start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready 2 years later, the understanding about the knowledge structure to be a fullstack engineer.
+2. System design practice (for example: how to desgin a assiment deadline auto management/reminder system, how to design your own AI Agent)
+3. Practice git & github, html, css, javascript
 5. understand HTTP protocal
 6. Data structure & Algrithm
 7. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not the starting blocker
-8. Mobile dev
-9. React
-10. database & SQL
-11. Unit test
-12. CI/CD
-13. Linux & Container, k8s
+9. Mobile dev
+10. React
+11. Nodejs, Expressjs
+12. database & SQL
+13. Unit test
+14. CI/CD
+15. Linux & Container, k8s
 
 ## Group plan
 It is better to have a 10 hours/week plan for each member in this group, and 30 - 60 minutes face 2 face group meeting per week.  
-(It seems like Thursday 3pm - 4pm in WT127 is a good choice)
+(It seems like Thursday 3pm - 4pm in WT127 is a good choice since we have the WT127 lab at that time, or we need book a meeting room)
 It is better to have different roles for each project, and let everybody to have a chance to try the role they want to be.   
 such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
 
