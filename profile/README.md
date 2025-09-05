@@ -46,7 +46,7 @@ Are you going to be ready to go into the job marketing after that?
 
 ## What skill do we need to join the group
 We welcome everyone to join without any background knowledge. But, some of the projects need some design/tech backgrounds.
-If you consider it is not fit you, you may as a oberver roles to stay in the project, until you can deliver some functions.  
+If you consider it is not fit you, you may join as a oberver roles to stay in the project, until you can deliver some functions.  
 It may have more than 1 project on going in this group, and everyone can choose the one you like to join.
 
 Some of below skills/tools would be the essential/core tools:
