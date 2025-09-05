@@ -11,6 +11,8 @@ We accept all the students who want to join.
 You may consider the projects and content here as your side project, you may use the ideas here and fork it as your own side project.
 We choose MIT license for all the projects, which means the least restrictions for all the codes assets here: Anyone can share, fork, sublicense those projects.  
 
+Organizer: Jimmy Z. (zhan0963@algonquin)
+
 ## Why after school projects
 We want to practice more!
 ```
