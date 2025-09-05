@@ -11,7 +11,7 @@ We accept all the students who want to join.
 You may consider the projects and the ideas here as your own start, and fork it as your own side project.
 We choose MIT license for all the projects, which means the least restrictions for all the codes assets here: Anyone can share, fork, sublicense those projects.  
 
-Organizer: Jimmy Z. (zhan0963@algonquin)
+Organizer: Jimmy Z. (zhan0963@algonquin)  
 I have some web development experience, but I'm not proficient in it yet.   
 And I haven't had the opportunity to build a production-ready application.  
   
