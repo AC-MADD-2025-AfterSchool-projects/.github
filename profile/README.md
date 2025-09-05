@@ -25,7 +25,7 @@ Join the github Organization: [AC-MADD2025Fall-SideProject-club](https://github.
 Join discussions and weekly meeting  
 Join the project to start coding!  
 
-## Why after school projects
+## Why side projects
 We want to practice more!
 ```
 It was the worst of times. It was the best of times！  
