@@ -12,6 +12,12 @@ You may consider the projects and the ideas here as your own start, and fork it 
 We choose MIT license for all the projects, which means the least restrictions for all the codes assets here: Anyone can share, fork, sublicense those projects.  
 
 Organizer: Jimmy Z. (zhan0963@algonquin)
+I have some web development experience, but I'm not proficient in it yet.   
+And I haven't had the opportunity to build a production-ready application.  
+  
+There are lots of content need to learn in MADD, maybe the course content itself has already exhausted us.  
+But I still hope to make the most of the next 20 months to practice my skills.  
+If you have a similar feeling, let's join this club.
 
 ## Why after school projects
 We want to practice more!
@@ -19,17 +25,21 @@ We want to practice more!
 It was the worst of times. It was the best of times！  
 ```
 Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers. To have a chance to get a better position to go into this industry.
-Due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.  
+Due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.    
+  
+We hope that we can run it as a real business development team.
 
 ## What expect from this group project
-Is that possible to get more from these 2 years?  
+Is that possible to get more from the next 20 months?  
+Are you going to be ready to go into the job marketing after that?    
+  
 1. It may let us have a better prepare to get the knowledge from school courses.
 2. It may let us have a better understand what we learn from school courses, and have a chance to practice by group.
 3. It may let us have a chance to resolve real world problems by different thinking and culture.
 
-## What do we need to join the group side projects
-We welcome everyone to join without any background knowledge.
-Some of the projects need some design/tech backgrounds, if you consider it is not fit you, you may as a oberver roles to stay in the project.
+## What do we need to join the group
+We welcome everyone to join without any background knowledge. But, some of the projects need some design/tech backgrounds.
+If you consider it is not fit you, you may as a oberver roles to stay in the project, until you can deliver some functions.  
 It may have more than 1 project on going in this group, and everyone can choose the one you like to join.
 
 Some of below skills/tools would be the essential/core tools:
@@ -48,22 +58,19 @@ Some of below skills/tools would be the essential/core tools:
 We are going to have a weekly meeting to share some topics, ideas, progress.
 
 ## Next Plan/topics ideas (TBD)
-1. Job marketing analysis, start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready 2 years later, the understanding about the knowledge structure to be a fullstack engineer.
+1. Job marketing analysis, start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready, the understanding about the knowledge structure to be a fullstack engineer.
 2. System design practice (for example: how to desgin a assiment deadline auto management/reminder system, how to design your own AI Agent)
-3. Practice git & github, html, css, javascript
-5. understand HTTP protocal
-6. Data structure & Algrithm
-7. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not the starting blocker
-9. Mobile dev
-10. React
-11. Nodejs, Expressjs
-12. database & SQL
-13. Unit test
-14. CI/CD
-15. Linux & Container, k8s
+3. Practice git & github, html, css, javascript - what we are learning right now.
+4. Data structure & Algrithm - it is better to understanding that all the application programming is about operating data efficiently
+5. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not the starting blocker
+6. understanding HTTP protocal
+7. Mobile dev
+8. database & SQL
+9. Unit test
+10. CI/CD, Container, k8s etc.
 
 ## Group plan
-It is better to have a 10 hours/week plan for each member in this group, and 30 - 60 minutes face 2 face group meeting per week.  
+It is better to have a 10 hours weekly time for each member in this group, and 30 - 60 minutes face 2 face group meeting per week.  
 (It seems like Thursday 3pm - 4pm in WT127 is a good choice since we have the WT127 lab at that time, or we need book a meeting room)
 It is better to have different roles for each project, and let everybody to have a chance to try the role they want to be.   
 such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
