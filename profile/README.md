@@ -19,13 +19,20 @@ There are lots of content need to learn in MADD, maybe the course content itself
 But I still hope to make the most of the next 20 months to practice my skills.  
 If you have a similar feeling, let's join this club.
 
+## How to join this club
+Join the Slack channel: [sideproject-club-inofficial](https://f25-maddstart.slack.com/archives/C09CPEGGAPL)  
+Join the github Organization: [AC-MADD2025Fall-SideProject-club](https://github.com/AC-MADD-2025-AfterSchool-projects)  
+Join discussions and weekly meeting  
+Join the project to start coding!  
+
 ## Why after school projects
 We want to practice more!
 ```
 It was the worst of times. It was the best of times！  
 ```
-Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the chance for 3 years experience engineers. To have a chance to get a better position to go into this industry.
-Due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.    
+Now the job market is like a wall, there is few chance for fresh junior engineer, but some of the job opening for 3 years experience engineers.   
+We want to have a better position to go into this industry.
+And due to the poor economic employment environment and the challenges that the AI brings to the industry, we believe that MADD students need to put in extra effort to be ready to enter the industry.    
   
 We hope that we can run it as a real business development team.
 
