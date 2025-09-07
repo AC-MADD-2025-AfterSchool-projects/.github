@@ -78,8 +78,10 @@ such as project manager, UI/UX design, frontend engineer, backend engineer, Devo
 
 ## Project github policy
 We are going to practice team github collaboration:   
+[GitHub flow to collaborate on projects](https://docs.github.com/en/get-started/using-github/github-flow)  
 [Best practices for organizations](http://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/best-practices-for-organizations)  
 [GitHub Best Practices When Developing with a Team](https://medium.com/@harshanacz/github-best-practices-when-developing-with-a-team-7e8703189a3f)
+[Git best practices for a team](https://www.reddit.com/r/learnprogramming/comments/16zqi5v/git_best_practices_for_a_team/)
 
 ## Project AI policy
 AI will be our the most important topic during the next 2 years.  
