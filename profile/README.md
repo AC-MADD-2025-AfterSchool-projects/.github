@@ -65,16 +65,12 @@ Some of below skills/tools would be the essential/core tools:
 We are going to have a weekly meeting to share some topics, ideas, progress.
 
 ## Next Plan/topics ideas (TBD)
-1. Job marketing analysis, start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready, the understanding about the knowledge structure to be a fullstack engineer.
+1. Job marketing trends, start from analysing indeed/linkedin Job Description, to understand what kind of tool sets need to be ready, the understanding about the knowledge structure to be a fullstack engineer.
 2. System design practice (for example: how to desgin a assiment deadline auto management/reminder system, how to design your own AI Agent)
 3. Practice git & github, html, css, javascript - what we are learning right now.
 4. Data structure & Algrithm - it is better to understanding that all the application programming is about operating data efficiently
 5. what is backend/frontend, what is javascript web frameworks - we may start coding from here, below knowledge is not the starting blocker
-6. understanding HTTP protocal
-7. Mobile dev
-8. database & SQL
-9. Unit test
-10. CI/CD, Container, k8s etc.
+6. Tech topic discuss: AI, LLM, HTTP protocal, Mobile dev, database & SQL, Unit test, CI/CD, Container, k8s etc.
 
 ## Group plan
 It is better to have a 10 hours weekly time for each member in this group, and 30 - 60 minutes face 2 face group meeting per week.  
