@@ -72,9 +72,13 @@ We are going to have a weekly meeting to share some topics, ideas, progress.
 
 ## Group plan
 It is better to have a 10 hours weekly time for each member in this group, and 30 - 60 minutes face 2 face group meeting per week.  
-(It seems like Thursday 3pm - 4pm in WT127 is a good choice since we have the WT127 lab at that time, or we need book a meeting room)
+(It seems like Thursday 3pm - 4pm in WT127 is a good choice since we have the WT127 lab at that time, or we need book a meeting room)  
 It is better to have different roles for each project, and let everybody to have a chance to try the role they want to be.   
-such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.
+such as project manager, UI/UX design, frontend engineer, backend engineer, Devops engineer etc.  
+
+## Project github policy
+We are going to practice team github collaboration:   
+[GitHub Best Practices When Developing with a Team](https://medium.com/@harshanacz/github-best-practices-when-developing-with-a-team-7e8703189a3f)
 
 ## Project AI policy
 AI will be our the most important topic during the next 2 years.  
